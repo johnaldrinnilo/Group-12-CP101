@@ -1,0 +1,44 @@
+EMPLOYEE PROFILE
+Employee #:	10005
+Last Name:	Romualdez
+First Name:	Alice
+Birthday:	14-May-92
+Address:	12A/33 Upton Isle Apt. 420, Roxas City 1814 Surigao del Norte
+Phone Number:	983-606-799
+SSS #:	55-4476527-2
+Philhealth #:	545652640232
+TIN #:	888-572-294-000
+Pag-ibig #:	211385556888
+Status:	Regular
+Position:	HR Rank and File
+Immediate Supervisor:	San Jose, Brad
+Compensation Details
+Basic:	22,500.00
+RiceSubsidy:	1,500.00
+PhoneAllowance:	500.00
+ClothingAllowance:	500.00
+GrossSemi-monthlyRate:	11,250.00
+HourlyRate:	133.93
+
+
+EMPLOYEE PROFILE
+Employee #:	10009
+Last Name:	San Jose
+First Name:	Allison
+Birthday:	24-Jun-86
+Address:	08 Grant Drive Suite 406, Poblacion, Iloilo City 9186 La Union
+Phone Number:	179-075-129
+SSS #:	45-3251383-0
+Philhealth #:	745148459521
+TIN #:	121-203-336-000
+Pag-ibig #:	114901859343
+Status:	Regular
+Position:	Account Rank and File
+Immediate Supervisor:	Mata, Christian
+Compensation Details
+Basic:	22,500.00
+RiceSubsidy:	1,500.00
+PhoneAllowance:	500.00
+ClothingAllowance:	500.00
+GrossSemi-monthlyRate:	11,250.00
+HourlyRate:	133.93

@@ -1,0 +1,17 @@
+TIMEKEEPING
+September 9 to 15, 2022
+Employee Name: San_Jose,Allisson
+Employee Number: 10009
+Hours Worked: 
+         Sept  9,22        0.00 
+         Sept 10,22        0.00 
+         Sept 11,22        8.00 
+         Sept 12,22        8.00 
+         Sept 13,22        8.00 
+         Sept 14,22        8.00 
+         Sept 15,22        8.00 
+Total Hours Worked:       40.00 
+Regular Working Hours:    48.00 
+Overtime Hours Worked:     0.00 
+Absence/Late/UT Hours:     8.00 
+

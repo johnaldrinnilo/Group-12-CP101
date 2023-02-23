@@ -1,0 +1,22 @@
+WEEKLY SALARY COMPUTATION
+September 9 to 15, 2022
+Employee Name: San_Jose,Allisson
+Employee Number: 10009
+
+Gross Wage
+  Basic Pay for the Week:            Php 5,357.20 
+  Rice Subsidy:                            375.00 
+  Phone Allowance:                         125.00 
+  Clothing Allowance:                      125.00 
+  Overtime Pay:                              0.00 
+  Total Earnings:                    Php 5,982.20 
+
+Deductions
+  Withholding Tax:                   Php   145.47 
+  SSS Contribution:                        253.13 
+  PHIC Contribution:                       168.75 
+  HDMF Contribution:                        25.00 
+  Total Deductions:                  Php   592.34 
+
+Net Wage for the Week                Php 5,389.86 
+
